@@ -1,0 +1,18 @@
+# Node & Vite
+node_modules/
+dist/
+.npm/
+
+# Python
+__pycache__/
+venv/
+env/
+.pytest_cache/
+
+# Environment Variables
+.env
+.env.local
+
+# OS Files
+.DS_Store
+Thumbs.db
